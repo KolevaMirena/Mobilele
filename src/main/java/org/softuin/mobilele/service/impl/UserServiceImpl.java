@@ -9,7 +9,7 @@ public class UserServiceImpl implements UserService {
     @Override
     public void registerUser(UserRegistrationDTO userRegistrationDTO) {
 
-        System.out.println("user service registration");
+        System.out.println("registration");
 
     }
 }
